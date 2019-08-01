@@ -2,6 +2,7 @@
 .classpath
 
 target/
+.settings/
 
 #ignore thumbnails created by windows
 Thumbs.db
