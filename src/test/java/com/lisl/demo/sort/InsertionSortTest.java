@@ -15,7 +15,6 @@ public class InsertionSortTest {
 		
 		InsertionSort.sort(numbers);
 		
-		
 		assertTrue(Arrays.equals(expect, numbers));
 	}
 
